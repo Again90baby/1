@@ -2,7 +2,6 @@
 粤语版电影一,http://allinone.netsite.cc/douyu/5033502
 粤语版电影二,http://allinone.netsite.cc/douyu/6566671
 粤语版电影三,http://allinone.netsite.cc/douyu/1226741
-
 粤语剧集轮播,http://allinone.netsite.cc/douyu/10338873
 粤语港剧轮播,http://allinone.netsite.cc/douyu/6478650
 粤语港剧回忆,http://allinone.netsite.cc/douyu/742565
@@ -11,8 +10,11 @@
 粤语经典综艺,http://allinone.netsite.cc/douyu/7919720
 粤语星爷电影,http://cfss.cc/cdn/hy/11336587.m3u8
 粤语极清电影,https://tc1-pull.haixing.tv/live/7765_1714180852.flv
-美亚电影台(粤语),mitv://generationnexxxt.com:19806/ee16565eb5fe46be8d22cbbde1fa9fae
-粤语片台,mitv://generationnexxxt.com:19806/3a44c9c92439443494b8ecff6fdb2336
+爆谷台,https://tv.mytvsuper.xyz/1/baogutai/baogu.m3u8
+星影台,https://tv.mytvsuper.xyz/1/xingyingtai/xingying.m3u8
+星河台,https://tv.mytvsuper.xyz/tvb/xinghe/xinghe.m3u8
+千禧经典台,https://tv.mytvsuper.xyz/astro/qianxi/qianxi.m3u8
+TVB生活台,https://tv.mytvsuper.xyz/tvb/shenghuo/stream.m3u8
 粤语动画电影,http://allinone.netsite.cc/douyu/6462389
 粤语配音电影,http://allinone.netsite.cc/yy/1356262523
 粤剧白蛇传情,http://cfss.cc/cdn/hy/19743437.m3u8
